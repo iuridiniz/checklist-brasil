@@ -24,3 +24,11 @@ proguard/
 
 # Log Files
 *.log
+
+
+# all platforms and plguins
+/platforms
+/plugins
+
+# bower
+/bower_components
